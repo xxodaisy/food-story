@@ -10,15 +10,13 @@ The dataset is provided in a .csv file and includes detailed customer, sales, an
 
 ## 🔍 Key Data Fields
 
-Customer Data: Order ID, sales type, sales number, customer name, email, and phone number.
+- Customer Data: Order ID, sales type, sales number, customer name, email, and phone number.
 
 Sales Report (3 tables):
 
-Branch Level: Branch details, bill total, grand total.
-
-Detailed Menu: Menu items and sales performance.
-
-Customer Level: Sales per customer.
+- Branch Level: Branch details, bill total, grand total.
+- Detailed Menu: Menu items and sales performance.
+- Customer Level: Sales per customer.
 
 ## 🛠️ Data Processing
 
@@ -59,7 +57,7 @@ We conducted an in-depth analysis using Power BI for data cleansing and visualiz
 
 ## 🔍 Conclusion
 
-📢 Read the full analysis and insights here: [Food Story]([url](https://medium.com/@ciaamoons/food-story-sales-performance-data-analysis-group-project-using-power-bi-bf25e9525be5)) 
+📢 Read the full analysis and insights here: [Food Story](https://medium.com/@ciaamoons/food-story-sales-performance-data-analysis-group-project-using-power-bi-bf25e9525be5)
 
 📍 This analysis is part of a group project conducted during our bootcamp.
 
