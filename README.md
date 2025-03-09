@@ -21,11 +21,17 @@ Sales report include 3 tables, including:
 
 There are 3 stages of data processing:
 
-1. Data formatting: we have date data in different formats such as "DD/MM/YYYY", "MM/DD/YYYY" or "YYYY/MM/DD". In the formatting stage, we convert the date data into a format like this: "DD/MM/YYYY"
+1. Data formatting: we have date data in different formats such as "DD/MM/YYYY", "MM/DD/YYYY" or "YYYY/MM/DD".
+
+In the formatting stage, we convert the date data into a format like this: "DD/MM/YYYY"
    
-2. Handling Missing Value: in the customer_name column, we have data on the name of customers who shop at Food Story, but the column has a lot of 'unknow' data. This needs to be considered whether it should be removed or left alone. We can remove duplicates as long as the data is indeed worth removing so that is facilities the next analysis process
-   
-3. Handling Outliers: we have a dataset about the revenue from product sales in this company. if there area revenues that are much lower or much higher than others, then this can be an outlier. However, it needs to be considered whether to delete this outlier if it is considered incorrect data or can be retained if it has a valid reason such as the total bill of sales.
+2. Handling Missing Value: in the customer_name column, we have data on the name of customers who shop at Food Story, but the column has a lot of 'unknow' data.
+
+This needs to be considered whether it should be removed or left alone. We can remove duplicates as long as the data is indeed worth removing so that is facilities the next analysis process.
+
+3. Handling Outliers: we have a dataset about the revenue from product sales in this company. If there area revenues that are much lower or much higher than others, then this can be an outlier.
+
+However, it needs to be considered whether to delete this outlier if it is considered incorrect data or can be retained if it has a valid reason such as the total bill of sales.
 
 ## 📈 Exploratory Data Analysis (EDA)
 
